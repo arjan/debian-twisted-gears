@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: twisted-gears
-Version: 0.1
+Version: 0.2
 Summary: A twisted interface to gearman.
 Home-page: http://bleu.west.spy.net/~dustin/
 Author: Dustin Sallings
