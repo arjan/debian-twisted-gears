@@ -9,6 +9,7 @@ Homepage: http://github.com/arjan/twisted-gears/
 
 Package: python-twisted-gears
 Architecture: all
+Conflicts: python-gearman.libgearman
 XB-Python-Version: ${python:Versions}
 Depends: ${misc:Depends}, ${python:Depends}, python-twisted-core
 Description: A twisted interface to Gearman.
