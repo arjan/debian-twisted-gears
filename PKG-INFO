@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: twisted-gears
+Version: 0.1
+Summary: A twisted interface to gearman.
+Home-page: http://bleu.west.spy.net/~dustin/
+Author: Dustin Sallings
+Author-email: dustin@spy.net
+License: Unknown
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Framework :: Twisted
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Topic :: Communications
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
