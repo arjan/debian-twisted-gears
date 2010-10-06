@@ -1,0 +1,20 @@
+This work was packaged for Debian by Arjan Scherpenisse <arjan@scherpenisse.net>
+
+The upstream source is available from <http://github.com/arjan/twisted-gears>.
+
+Upstream Authors:
+
+    Dustin Sallings <dustin@spy.net>
+
+Copyright:
+
+    Dustin Sallings <dustin@spy.net>
+
+License: Unknown
+
+The Debian packaging is:
+
+    Copyright (C) 2010 Arjan Scherpenisse <arjan@scherpenisse.net>
+
+and is licensed under the GPL version 3,
+see `/usr/share/common-licenses/GPL-3'.
